@@ -96,7 +96,7 @@ if myuser_input == "1" or "1.":
 
         
 
-        bus_routes = pd.read_csv("E:/Project/routes.csv")
+        bus_routes = pd.read_csv("routes.csv")
 
         print(bus_routes)
 
